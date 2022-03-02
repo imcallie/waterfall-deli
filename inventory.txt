@@ -1,0 +1,49 @@
+-intro screen 
+index.html
+
+Logo + two button layout
+
+transition page for returning users (card animation)
+
+-log in (new user) 
+login-new.html
+
+Two forms, name and email, layout
+
+-main menu 
+main-menu.html
+
+Header and title + three button layout + recently ordered if applicable
+
+-sandwiches
+sandwiches.html
+
+Header and title + 5 button layout
+
+-salads
+salads.html
+
+Header and title + 5 button layout
+
+-wraps
+wraps.html
+
+Header and title + 5 button layout
+
+-product/modifications page
+product.html
+
+Header + card with title, image, description + modification slider + button
+
+-cart 
+cart.html
+
+Header + title + cart + button
+
+-order confirmation 
+order-confirm.html
+
+Header + title + paragraph + 2 buttons
+
+-account 
+account.html
